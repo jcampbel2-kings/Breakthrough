@@ -1,0 +1,14 @@
+Z:\Assessments\July2024\bin\Debug\net7.0\July2024.exe
+Z:\Assessments\July2024\bin\Debug\net7.0\July2024.deps.json
+Z:\Assessments\July2024\bin\Debug\net7.0\July2024.runtimeconfig.json
+Z:\Assessments\July2024\bin\Debug\net7.0\July2024.dll
+Z:\Assessments\July2024\bin\Debug\net7.0\July2024.pdb
+Z:\Assessments\July2024\obj\Debug\net7.0\July2024.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Assessments\July2024\obj\Debug\net7.0\July2024.AssemblyInfoInputs.cache
+Z:\Assessments\July2024\obj\Debug\net7.0\July2024.AssemblyInfo.cs
+Z:\Assessments\July2024\obj\Debug\net7.0\July2024.csproj.CoreCompileInputs.cache
+Z:\Assessments\July2024\obj\Debug\net7.0\July2024.dll
+Z:\Assessments\July2024\obj\Debug\net7.0\refint\July2024.dll
+Z:\Assessments\July2024\obj\Debug\net7.0\July2024.pdb
+Z:\Assessments\July2024\obj\Debug\net7.0\July2024.genruntimeconfig.cache
+Z:\Assessments\July2024\obj\Debug\net7.0\ref\July2024.dll
